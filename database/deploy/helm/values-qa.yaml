@@ -16,3 +16,5 @@ service:
 extraEnvVars:
   - name: JAVA_OPTS
     value: '-Dspring.profiles.active=qa'
+    
+    
